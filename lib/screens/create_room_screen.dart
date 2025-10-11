@@ -37,7 +37,7 @@ class _CreateRoomScreenState extends State<CreateRoomScreen> {
             children: [
               const CustomText(
                 shadows: [Shadow(blurRadius: 40, color: Colors.blue)],
-                text: "Create Room",
+                text: "Create Roomm",
                 fontSize: 70,
               ),
               SizedBox(height: size.height * 0.08),
